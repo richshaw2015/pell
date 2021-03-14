@@ -46,7 +46,7 @@
     <script>
       var editor = window.pell.init({
         element: document.getElementById('editor'),
-        defaultParagraphSeparator: 'p',
+        defaultParagraphSeparator: 'div',
         onChange: function (html) {
           document.getElementById('text-output').innerHTML = html
           document.getElementById('html-output').textContent = html
