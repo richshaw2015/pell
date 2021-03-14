@@ -41,5 +41,8 @@
     "rollup-plugin-babel": "2.7.1",
     "rollup-plugin-uglify": "2.0.1",
     "run-sequence": "1.2.2"
+  },
+  "resolutions": {
+    "graceful-fs": "^4.2.4"
   }
 }

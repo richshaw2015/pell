@@ -22,7 +22,7 @@ const rollupConfig = minimize => ({
     minimize
       ? [
         uglify({
-          compress: { warnings: false },
+          warnings: false,
           mangle: true,
           sourceMap: false
         })
