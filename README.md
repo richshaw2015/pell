@@ -1,3 +1,8 @@
+## 中文优化
+
+- 修复了中文输入时第一个字母被截断的问题
+- 使用 node 12 + yarn 构建
+
 #### [v2 working branch](https://github.com/jaredreich/pell/tree/v2) and [v2 project board](https://github.com/jaredreich/pell/projects/1)
 
 ---
